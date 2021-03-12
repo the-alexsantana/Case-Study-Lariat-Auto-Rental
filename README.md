@@ -5,20 +5,20 @@
 
 - The raw data is in four Excel worksheets in four workbooks which will be combined into one workbook.
 
+<strong>Process</strong>
+
+- 
+
 <strong>Deliverables</strong>
 
 - An Excel model to make data-informed decisions about their fleet, based on the observed costs and revenue data from their fleet in recent years.
 
 - A PowerPoint deck that provides an analysis of the problem and provides recommendations.
 
-<strong>Process</strong>
-
-- 
-
 <strong>Key Takeways</strong>
 
 - 
 
-<strong>Unexpected Results</strong>
+<strong>Potential Outcomes</strong>
 
 - 
