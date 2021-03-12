@@ -11,14 +11,14 @@
 
 - A PowerPoint deck that provides an analysis of the problem and provides recommendations.
 
-Process
+<strong>Process</strong>
 
 - 
 
-Key Takeaways
+<strong>Key Takeways</strong>
 
 - 
 
-Unexpected Results
+<strong>Unexpected Results</strong>
 
 - 
